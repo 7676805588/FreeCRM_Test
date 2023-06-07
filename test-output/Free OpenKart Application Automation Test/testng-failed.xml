@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Free OpenKart Application Automation Test]">
+  <test name="OpenKart Application Test(failed)">
+    <classes>
+      <class name="com.crm.qa.testcases.EditAccountPageTest">
+        <methods>
+          <include name="validateFirstNameTest"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.crm.qa.testcases.EditAccountPageTest -->
+    </classes>
+  </test> <!-- OpenKart Application Test(failed) -->
+</suite> <!-- Failed suite [Free OpenKart Application Automation Test] -->
